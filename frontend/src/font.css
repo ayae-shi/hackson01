@@ -1,0 +1,10 @@
+/* styles.css */
+@import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@400&display=swap');
+
+
+.kiwi-maru-regular {
+    font-family: 'Kiwi Maru', serif;
+    font-weight: 500; /* 通常のウェイト */
+    font-style: normal; /* 通常のスタイル */
+  }
+  
